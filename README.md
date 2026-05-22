@@ -21,9 +21,7 @@ Cada área tiene su propia forma de trabajo, entrega y evaluación.
 ---
 
 ## 🌐 1. Contenidos Digitales
-### Contenido de clase
-- https://www.youtube.com/watch?v=TZCoyi8qfKo
-- https://www.youtube.com/watch?v=FMScEUBup-U&t=36s
+
 ### 📌 Modalidad:
 Desarrollo de páginas web, práctica de código HTML y CSS, y creación de archivos digitales.
 
@@ -97,7 +95,9 @@ Ejercicios prácticos y actividades relacionadas con herramientas digitales, pri
 ---
 
 ## 🖥️ 3. Sistemas
-
+### Contenido de clase
+- https://www.youtube.com/watch?v=TZCoyi8qfKo
+- https://www.youtube.com/watch?v=FMScEUBup-U&t=36s
 ### 📌 Modalidad:
 Actividades teóricas, análisis de conceptos, identificación de componentes y ejercicios escritos.
 
